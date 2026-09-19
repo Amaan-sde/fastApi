@@ -4,16 +4,7 @@ A minimal FastAPI application with a single root route, `.env` port configuratio
 
 ## Project Structure
 
-```
-.
-├── .env                # Environment variables (e.g. PORT=8000)
-├── .env.example        # Example environment variables template
-├── Dockerfile          # Docker container configuration
-├── .dockerignore       # Files to exclude from the Docker context
-├── main.py             # FastAPI app with single route
-├── requirements.txt    # Python dependencies
-└── README.md
-```
+
 
 ## Configuration
 
